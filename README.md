@@ -1,4 +1,4 @@
-                                                        OrderMeUp - Food Ordering Interface
+![Screenshot 2024-08-02 210231](https://github.com/user-attachments/assets/8fbfd52a-eb5e-4354-9708-96d82e6428f8)                                                        OrderMeUp - Food Ordering Interface
                                                         
 Welcome to the OrderMeUp app! This project represents the food ordering interface I designed during my UI/UX Design internship at CodSoft.
 
