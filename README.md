@@ -1,8 +1,12 @@
                                                         OrderMeUp - Food Ordering Interface
+                                                        
+                ![Screenshot 2024-08-02 210231](https://github.com/user-attachments/assets/6cd2bdfc-bbfb-43fa-8543-34edc5d3fead)
+
 Welcome to the OrderMeUp app! This project represents the food ordering interface I designed during my UI/UX Design internship at CodSoft.
 
 Overview
 OrderMeUp is a user-friendly food ordering app designed to make the process of selecting and purchasing meals quick and easy. The interface is intuitive and visually appealing, ensuring a seamless user experience from browsing the menu to checking out.
+
 
 Features
 Menu Screen
